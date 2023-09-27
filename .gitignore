@@ -1,6 +1,9 @@
 # Created by https://www.toptal.com/developers/gitignore/api/windows,macos,phpstorm,node,dotenv
 # Edit at https://www.toptal.com/developers/gitignore?templates=windows,macos,phpstorm,node,dotenv
 
+.idea
+.vscode
+
 ### dotenv ###
 .env
 
@@ -9,7 +12,6 @@
 .DS_Store
 .AppleDouble
 .LSOverride
-
 # Icon must end with two \r
 Icon
 
